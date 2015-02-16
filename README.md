@@ -1,4 +1,4 @@
-# stopwatch
+# stopwatch-qt
 A stopwatch in Qt. No more, no less.
 
 ### Compilation
